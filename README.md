@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 💬 Ask me about **music**
-
 - 📫 How to reach me **mariavictoria.barcos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
